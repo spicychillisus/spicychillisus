@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm asher</h1>
-<h3 align="center">i aspire to become a software developer in the future!</h3>
+<h3 align="center">i aspire to become a software developer in the future! not now, but one day.</h3>
 
 - 🔭 I’m currently working on [https://github.com/spicychillisus/budget-app](https://github.com/spicychillisus/budget-app)
 
