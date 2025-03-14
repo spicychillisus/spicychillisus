@@ -1,1 +1,1 @@
-i can build a backend server in 3 languages
+amateur python and java developer and somewhat okay javascript, typescript and react developer
