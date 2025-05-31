@@ -1,3 +1,4 @@
+<h1>Bio</h1>
 Forged in the dynamic world of web development, this developer is a true specialist with JavaScript—a language they wield with confidence across both front-end and back-end landscapes. With TypeScript and React rounding out their toolkit, they craft interactive, responsive experiences that bring ideas to life on the modern web.
 
 But the journey doesn’t stop there. Building on solid foundations in Python and Java, they have recently mastered Java and are now venturing into the realms of C++ and data analytics, always eager to expand their horizons and sharpen their edge.
